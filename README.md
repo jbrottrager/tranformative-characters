@@ -5,7 +5,7 @@ This project, *Transformative Characters*, explores how the characters featured 
 
 ---
 
-## 📚 Platform Overview
+## Platform Overview
 
 **Fanfiktion.de**  
 A major German-language fanfiction archive with:
@@ -15,7 +15,7 @@ A major German-language fanfiction archive with:
 
 ---
 
-## 🔍 Harry Potter 2020 Subcorpus
+## Harry Potter 2020 Subcorpus
 
 Harry Potter is the largest fandom on the platform, listed under:  
 `Fanfiction / Bücher / Harry Potter Universe / Harry Potter - FFs`
@@ -27,17 +27,17 @@ For the year 2020 alone:
 
 ---
 
-## 💾 Data Access
+## Data Access
 
 You can download the processed and pickled dataset used in this project here:  
-👉 [Download pickled data](https://cloud.gugw.tu-darmstadt.de/nextcloud/s/ki3ao8WBnt4p7Tj)
+[Download pickled data](https://cloud.gugw.tu-darmstadt.de/nextcloud/s/ki3ao8WBnt4p7Tj)
 
 ---
 
-## 📂 Darmstadt Fanfiction Corpus 1.0
+## Darmstadt Fanfiction Corpus 1.0
 
 Looking for the full Fanfiktion.de corpus?  
 You can find it here:  
-📎 [https://doi.org/10.48328/tudatalib-1452](https://doi.org/10.48328/tudatalib-1452)
+[https://doi.org/10.48328/tudatalib-1452](https://doi.org/10.48328/tudatalib-1452)
 
 ---

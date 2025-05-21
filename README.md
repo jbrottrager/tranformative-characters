@@ -1,37 +1,26 @@
 # Transformative Characters  
 **How are Harry Potter fanfictions influenced by the characters they feature?**
 
-This project, *Transformative Characters*, looks at how the characters featured in Harry Potter fanfictions shape the stories and themes — all based on data from [Fanfiktion.de](https://www.fanfiktion.de/).
+This project, *Transformative Characters*, explores how the characters featured in Harry Potter fanfictions shape the stories and themes — all based on data from [Fanfiktion.de](https://www.fanfiktion.de/).
 
 ---
 
 ## 📚 Platform Overview
 
 **Fanfiktion.de**  
-A large German-language fanfiction archive:
+A major German-language fanfiction archive with:
 
 - ~425,000 fanfictions  
 - ~1,000 fandoms  
 
 ---
 
-## 📂 Corpus: Fanfictions from 2020
+## 🔍 Harry Potter 2020 Subcorpus
 
-The dataset includes all fanfictions published on Fanfiktion.de in the year 2020:
-
-- **26,374 fanfictions**  
-- **11,630 authors**  
-- **28,588 users** (authors and reviewers)  
-- **22,000 reviews**
-
----
-
-## 🔍 Harry Potter Subcorpus
-
-Harry Potter is the largest fandom on the platform, categorised under:  
+Harry Potter is the largest fandom on the platform, listed under:  
 `Fanfiction / Bücher / Harry Potter Universe / Harry Potter - FFs`
 
-In 2020 alone:
+For the year 2020 alone:
 
 - **4,411 fanfictions**  
 - 6 subcategories  
@@ -40,7 +29,15 @@ In 2020 alone:
 
 ## 💾 Data Access
 
-The processed and pickled dataset is available here:  
-[Download pickled data](https://cloud.gugw.tu-darmstadt.de/nextcloud/s/ki3ao8WBnt4p7Tj)
+You can download the processed and pickled dataset used in this project here:  
+👉 [Download pickled data](https://cloud.gugw.tu-darmstadt.de/nextcloud/s/ki3ao8WBnt4p7Tj)
+
+---
+
+## 📂 Darmstadt Fanfiction Corpus 1.0
+
+Looking for the full Fanfiktion.de corpus?  
+You can find it here:  
+📎 [https://doi.org/10.48328/tudatalib-1452](https://doi.org/10.48328/tudatalib-1452)
 
 ---
